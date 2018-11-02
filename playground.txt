@@ -1,3 +1,4 @@
 formation git
 ammend commit
 commit sans staging
+master change
