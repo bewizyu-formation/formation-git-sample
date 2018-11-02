@@ -1,2 +1,3 @@
 formation git
-seconde ligne
+ammend commit
+commit sans staging
