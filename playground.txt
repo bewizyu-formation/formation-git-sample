@@ -8,3 +8,5 @@ Pull ;)
 
 
 Master change 2
+
+Démo HoC
